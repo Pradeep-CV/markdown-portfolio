@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Books
+    1. Book 1
+    2. Book 2
+2. Place
+    1. Place 1
+    2. Place 2
